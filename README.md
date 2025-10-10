@@ -1,4 +1,6 @@
-# 🧠 COVID-19 Data Analysis with SQL
+# SQL Projects
+
+## 🧠 COVID-19 Data Analysis with SQL
 
 This project is part of my **Data Analytics Portfolio**, showcasing the use of **SQL** to explore and analyze global COVID-19 data.  
 The analysis focuses on understanding infection trends, death rates, and vaccination progress across different countries and continents.
